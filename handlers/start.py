@@ -17,7 +17,7 @@ async def start_(client: Client, message: Message):
 
 ──────────────────
 ๏  All of my command can be used with My command handle : ( / . • $ ^ ~ + * ? )
-➻ Made 🖤 by : [𝗝𝝙𝗬🥀](https://t.me/{me}) ** """,
+➻ Made 🖤 by : [𝗬𝗔𝗦𝗛𝗨🥀](https://t.me/{me}) ** """,
     reply_markup=InlineKeyboardMarkup(
             [
                 [
@@ -36,14 +36,14 @@ async def start_(client: Client, message: Message):
                         "👤 Bot Owner ", url=f"https://t.me/{me}"
                     ),
                     InlineKeyboardButton(
-                        "👨‍💻 Developer ", url=f"https://t.me/export_gabbar"
+                        "👨‍💻 Developer ", url=f"https://t.me/Friend_yashu"
                     ),
                   ],[
                     InlineKeyboardButton(
-                        "✅ Inline ", switch_inline_query_current_chat=""
+                        "✅ Inline ", switch_inline_query_current_chat="GIRL_FRIEND_MUSIC_BOT"
                     ),
                     InlineKeyboardButton(
-                        "💡 Git repo", url="https://github.com/MrProgrammer72/GJ516VCBOT"
+                        "💡 Git repo", url="https://github.com/Akashjshhd/yashu-X-kittu"
                     )]
             ]
        ),
